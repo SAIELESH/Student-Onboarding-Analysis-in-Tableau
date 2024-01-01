@@ -1,4 +1,5 @@
 # Student-Onboarding-Analysis-in-Tableau
+https://public.tableau.com/views/StudentOnboardingAnalysis_17041189455680/Onboarding_N?:language=en-US&:display_count=n&:origin=viz_share_link
 # Case Description
 
 Backgound:An onboarding survey, in essence, is a structured questionnaire or feedback mechanism employed by online platforms to gain insights into new users' experiences and expectations during their initial interaction with the platform. This Student Onboarding Analysis in Tableau project delves into the onboarding experience of students using an e-learning platform. By analyzing customer onboarding survey data, we seek to understand better how students discover the platform, their learning aspirations, and ultimate career goals.
